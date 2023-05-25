@@ -1,0 +1,8 @@
+Faltou a nova versão do diagrama de
+classes.
+
+As telas estão muito legais, apenas lembrem-se
+sempre de que o usuário precisa
+saber em que ponto ele está, poder
+voltar etc Na tela 17 por exemplo, como volto???
+Qual é a tela inicial da instituição?
